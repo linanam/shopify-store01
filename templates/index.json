@@ -243,6 +243,57 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "a0b00b7c-14a0-4205-970a-57d737d62794": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18841210257684__a0b00b7c-14a0-4205-970a-57d737d62794-168305756863e36078-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Question 1",
+            "icon": "check_mark",
+            "row_content": "<p>Answer 1<\/p>",
+            "page": ""
+          }
+        },
+        "template--18841210257684__a0b00b7c-14a0-4205-970a-57d737d62794-168305756863e36078-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Question 2",
+            "icon": "check_mark",
+            "row_content": "<p>Answer 2<\/p>",
+            "page": ""
+          }
+        },
+        "template--18841210257684__a0b00b7c-14a0-4205-970a-57d737d62794-168305756863e36078-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Question 3",
+            "icon": "check_mark",
+            "row_content": "<p>Answer 3<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18841210257684__a0b00b7c-14a0-4205-970a-57d737d62794-168305756863e36078-0",
+        "template--18841210257684__a0b00b7c-14a0-4205-970a-57d737d62794-168305756863e36078-1",
+        "template--18841210257684__a0b00b7c-14a0-4205-970a-57d737d62794-168305756863e36078-2"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -251,6 +302,7 @@
     "7d09731f-2d66-4acb-b4ea-7be02387cae9",
     "e95eb09f-b14b-4096-8d71-23637d7ee0a2",
     "611bedd4-5cf4-4bd8-87bf-f4c9c812d13b",
-    "480c208a-c009-45f4-90ae-5c58eda80e15"
+    "480c208a-c009-45f4-90ae-5c58eda80e15",
+    "a0b00b7c-14a0-4205-970a-57d737d62794"
   ]
 }
